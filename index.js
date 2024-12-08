@@ -1,6 +1,6 @@
 const ux = document.querySelector("#ux");
 const branding = document.querySelector("#branding");
-const photography = document.querySelector("#photography");
+const photography = document.querySelector("#Photography");
 const ilustration = document.querySelector("#Ilustration");
 const editorial = document.querySelector("#editoriall");
 
