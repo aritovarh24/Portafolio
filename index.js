@@ -1,6 +1,6 @@
 const ux = document.querySelector("#ux");
 const branding = document.querySelector("#branding");
-const photography = document.querySelector("#Photography");
+const photography = document.querySelector("#photography");
 const ilustration = document.querySelector("#Ilustration");
 const editorial = document.querySelector("#editoriall");
 
@@ -13,7 +13,7 @@ branding.addEventListener('click', () => {
 })
 
 photography.addEventListener('click', () => {
-    window.location.href = "html/photography.html";
+    window.location.href = "html/Photography.html";
 })
 
 ilustration.addEventListener('click', () => {
