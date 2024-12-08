@@ -13,7 +13,7 @@ branding.addEventListener('click', () => {
 })
 
 photography.addEventListener('click', () => {
-    window.location.href = "html/Photography.html";
+    window.location.href = "html/photography.html";
 })
 
 ilustration.addEventListener('click', () => {
